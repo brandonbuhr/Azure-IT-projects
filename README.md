@@ -13,9 +13,13 @@ This project uses two virtual machines to experiment with file shares and variou
 <b>File Explorer</b>
 
 <h2>Environments Used</h2>
+<br/>
 <b>Microsoft Azure</b>
+<br/>
 <b>Windows 10</b>
+<br/>
 <b>Windows Server</b>
+<br/>
 
 <h2>Walkthrough</h2>
 
